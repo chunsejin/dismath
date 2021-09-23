@@ -15,8 +15,10 @@
 ## 사용방법
 다음 세 가지 방법중에 편한 방법을 사용하여 
 1. 파일을 다운로드 -> 구글 Colab에서 업로드한 뒤 코드 수정/개발 (Easy)
-2. 파일을 다운로드 -> Jetbrain과 같은 통합개발환경(IDE)에서 파일 로드->코드 수정/개발
-3. IDE환경에서 github repository를 clone한 뒤에 과제 수행
+2. 구글 Colab에서 노트열기 github에서 아래 링크를 입력한뒤 discretemath에 대한 자료 중 하나를 불러오기
+   https://github.com/chunsejin/discretemath.git
+3. 파일을 다운로드 -> Jetbrain과 같은 통합개발환경(IDE)에서 파일 로드->코드 수정/개발
+4. IDE환경에서 github repository를 clone한 뒤에 과제 수행
 
 ## 과제 수행 방법
 완료한 숙제는 가상대학(eclass.donga.ac.kr)에 맞추어 업로드하시기 바랍니다.
