@@ -1,4 +1,4 @@
-# 이산수학 과제
+# 이산수학 과제 및 실습
 동아대학교 컴퓨터AI공학부 이산수학 과제를 위한 안내정보입니다. 과제를 진행해야하는 학생들은 다음 아래 주제 중에서 하나를 택하여 진행하시면 됩니다. 
 * 주제1: 부산시 도시철도 데이터 분석하기
 * 주제2: 부산시 환경오염 데이터 분석하기
@@ -6,6 +6,27 @@
 * 주제4: 치안 데이터 분석하기
 
 ** 하나의 주제만 택하고 코드작성하여 제출하시면 됩니다**
+
+## 주제
+1. HW1: 판다스 데이터프레임 다루기 
+2. HW2: 논리식에 대한 라이브러리 사용 및 Matplotlib를 사용한 데이터 시각화
+3. HW3: 집합(Set)을 데이터셋에 적용하기, 구글드라이브 연동
+4. HW4: NUMPY와 함께 관계 다루기 (Boolean product, Transitive/Symmetric/Reflexive/Equivalence relations, Floyd Warshall Algo.)
+5. HW5: Networkx와 함께 그래프 다루기 (그래프 종류에 따른 구현, In/Out-degrees, BFS)
+6. HW6: 소셜네트워크 분석(Social network analytics)
+7. HW7: Isomorphism, Graph density, Euler graph
+8. HW8: Shortest path, Single source shortest path,
+
+## 미완성 주제
+다음 주제에 대한 예제를 함께 만들면 좋을 것 같습니다.
+Hamilton graph, DFS, Tree traversal, Prim/Kruskal algo., adjacency matrix
+Maximum bipartite matching, Welch-Powell Algorithm(Graph coloring), Traveling sales man problem
+
+고급 예제
+Hypergraph model, Label Property Graph model,
+Ontology/RDFS reasoning, 
+
+
 
 ## 요구환경 및 필수/선택요소
 요구환경:
