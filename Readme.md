@@ -7,12 +7,10 @@
 * 주제3: 전국관광 데이터 분석하기 
 * 주제4: 치안 데이터 분석하기
 
-** 하나의 주제만 택하고 코드작성하여 제출하시면 됩니다**
-
 ## 주제
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chunsejin/dismath/blob/master/%EC%A3%BC%EC%A0%9C3_(1-3)_%EB%B6%80%EC%82%B0%EC%8B%9C_%EA%B4%80%EA%B4%91_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0.ipynb)
 - HW1: 판다스 데이터프레임 다루기
-- HW2: 논리식에 대한 라이브러리 사용 및 Matplotlib를 사용한 데이터 시각화
+- HW2: 논리식에 대한 라이브러리(Pyprover) 사용 및 Matplotlib를 사용한 데이터 시각화
 - HW3: 집합(Set)을 데이터셋에 적용하기, 구글드라이브 연동
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chunsejin/dismath/blob/master/주제5_(4%2C5%2C6)_그래프_다루기.ipynb)
@@ -40,13 +38,13 @@ Ontology/RDFS reasoning,
 
 ## 요구환경 및 필수/선택요소
 요구환경:
-- python 3.7
-- pandas 1.3.3
-- matplotlib 3.4.3
+- python >3.7 
+- pandas >1.3.3
+- matplotlib >3.4.3
 
 기타환경:
 - Google Colab 계정 (추천)
-- 통합개발환경 도구(pyCharm 등)
+- 통합개발환경 도구(pyCharm, VSCode 등)
 
 ## 사용방법
 다음 네 가지 방법중에 편한 방법을 사용하시기 바랍니다
@@ -65,3 +63,6 @@ Ontology/RDFS reasoning,
 ## 기타 문의사항
 (천세진) sjchun@dau.ac.kr
 
+
+## Copyright
+2021-2023 Data Science Labs @ DAU
