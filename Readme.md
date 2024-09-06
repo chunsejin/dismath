@@ -32,6 +32,8 @@ answers 폴더 내에 있습니다.
 Hamilton graph, DFS, Tree traversal, Prim/Kruskal algo., adjacency matrix
 Maximum bipartite matching, Welch-Powell Algorithm(Graph coloring), Traveling sales man problem
 
+Pandas 내용을 Polars와 Dask, cuGraph 로 변경하는 부분
+
 고급 예제
 Hypergraph model, Label Property Graph model,
 Ontology/RDFS reasoning,
@@ -65,4 +67,4 @@ Ontology/RDFS reasoning,
 
 
 ## Copyright
-2021-2023 Data Science Labs @ DAU
+2021-2024 Data Science Labs @ DAU
