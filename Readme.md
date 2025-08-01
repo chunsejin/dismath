@@ -1,7 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # 이산수학 과제 및 실습
-동아대학교 컴퓨터AI공학부 이산수학 과제를 위한 안내정보입니다. 과제를 진행해야하는 학생들은 다음 아래 주제 중에서 하나를 택하여 진행하시면 됩니다. 
+동아대학교 소프트웨어대학 이산수학 과제를 위한 안내정보입니다. 과제를 진행해야하는 학생들은 다음 아래 주제 중에서 하나를 택하여 진행하시면 됩니다. 
 * 주제1: 부산시 도시철도 데이터 분석하기
 * 주제2: 부산시 환경오염 데이터 분석하기
 * 주제3: 전국관광 데이터 분석하기 
@@ -21,22 +21,21 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chunsejin/dismath/blob/master/주제6_(7%2C8)_그래프_알고리즘.ipynb)
 
-- HW7: Isomorphism, Graph density, Euler graph
+- HW7: Isomorphism, Graph density, Euler graph, Hamilton graph
 - HW8: Shortest path, Single source shortest path,
 
-## 정답
-answers 폴더 내에 있습니다.
 
-## 미완성 주제
-다음 주제에 대한 예제를 함께 만들면 좋을 것 같습니다.
-Hamilton graph, DFS, Tree traversal, Prim/Kruskal algo., adjacency matrix
-Maximum bipartite matching, Welch-Powell Algorithm(Graph coloring), Traveling sales man problem
-
-Pandas 내용을 Polars와 Dask, cuGraph 로 변경하는 부분
-
-고급 예제
-Hypergraph model, Label Property Graph model,
-Ontology/RDFS reasoning,
+## 과제로 포함되어야하는 주제
+Depth First Search
+Tree traversal
+Prim/Kruskal algorithms
+Adjacency matrix
+Maximum bipartite matching
+Welch-Powell Algorithm(Graph coloring)
+Traveling sales man problem
+Hypergraph model
+Label Property Graph model
+Pandas 내용을 Polars와 Dask, cuGraph 로 변경하고 성능을 체크함
 
 ## 요구환경 및 필수/선택요소
 요구환경:
@@ -67,4 +66,4 @@ Ontology/RDFS reasoning,
 
 
 ## Copyright
-2021-2024 Data Science Labs @ DAU
+2021-2025 Data Science Labs @ DAU
